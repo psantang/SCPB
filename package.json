@@ -1,16 +1,16 @@
 {
-  "name": "scpb",
+  "name": "pushsample",
   "private": true,
   "version": "1.0.0",
-  "description": "SCPB",
+  "description": "pushsample",
   "repository": "",
   "license": "UNLICENSED",
   "framework7": {
-    "cwd": "/Users/paulsantangelo/GitHub/SCPB",
+    "cwd": "/Users/paulsantangelo/GitHub/pushsample",
     "type": [
       "cordova"
     ],
-    "name": "SCPB",
+    "name": "pushsample",
     "framework": "core",
     "template": "tabs",
     "bundler": "webpack",
@@ -30,7 +30,7 @@
       "preserveAssetsPaths": false,
       "inlineAssets": true
     },
-    "pkg": "com.paulsantangelo.scpb",
+    "pkg": "com.paulsantangelo.pushsample",
     "cordova": {
       "folder": "cordova",
       "platforms": [

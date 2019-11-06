@@ -11,6 +11,8 @@ import '../css/app.css';
 import cordovaApp from './cordova-app.js';
 // Import Routes
 import routes from './routes.js';
+// PS: Import notifications script
+//import pushNotify from './pushNotify.js';
 
 var app = new Framework7({
   root: '#app', // App root element
